@@ -1,16 +1,32 @@
 {
-    "name": "Selenized black theme",
+    "name": "Discord Dark",
     "is_dark": true,
     "colors": {
-        "accent-color": "#70b433",
-        "primary-color": "#4695f7",
-        "warning-color": "#ed4a46",
+        "accent-color": "#747ff4",
+        "accent": "#747ff4",
+        "primary-color": "#00aff4",
+        "warning-color": "#dc1f1f",
+        "alert": "#dc1f1f",
 
-        "sidebar-color": "#181818",
-        "roomlist-background-color": "#252525",
-        "roomlist-text-color": "#ffffff",
-        "roomlist-text-secondary-color": "#b9b9b9",
-        "roomlist-highlights-color": "#3b3b3b",
-        "roomlist-separator-color": "#121212",
+        "sidebar-color": "#202225",
+        "roomlist-background-color": "#2f3136",
+        "roomlist-text-color": "#dcddde",
+        "roomlist-text-secondary-color": "#8e9297",
+        "roomlist-highlights-color": "#4f545c52",
+        "roomlist-separator-color": "#40444b",
+
+        "timeline-background-color": "#222222",
+        "timeline-text-color": "#dcddde",
+        "secondary-content": "#dcddde",
+        "tertiary-content": "#dcddde",
+        "timeline-text-secondary-color": "#b9bbbe",
+        "timeline-highlights-color": "#04040512",
+
+        "reaction-row-button-selected-bg-color": "#4752c4",
+        "menu-selected-color": "#4752c4",
+        "focus-bg-color": "#4752c4",
+        "room-highlight-color": "#4752c4",
+        "other-user-pill-bg-color": "#4752c4",
+        "togglesw-off-color": "#72767d"
     }
 }
